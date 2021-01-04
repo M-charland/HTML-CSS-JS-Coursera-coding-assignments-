@@ -33,11 +33,16 @@
 	}
 }
 
+/*Row*/
+div.row {
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
 /*Container*/
 section.container {
 	position: relative;
-	margin: 20px;
-	margin-top: 0px;
+	margin: 10px;
 	border: 1px solid #000000;
 	background-color: #e6e6e6;
 }
@@ -56,7 +61,7 @@ section#sushi>h2 {
 /*Text*/
 h1	{
 	text-align: center;
-	margin: 50px;
+	margin: 30px;
 	font-size: 175%;
 }
 h2 {
