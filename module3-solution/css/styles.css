@@ -1,0 +1,47 @@
+.navbar {
+	background-color: #80b1ff;
+}
+.navbar-brand h1 {
+	color: #fff;
+	font-size: 1.5em;
+	margin: 0;	
+}
+.navbar-header button.navbar-toggle {
+	background-color: #fff; 
+}
+.navbar-collapse {
+	padding: 0;
+	background-color: #cfe1ff;
+}
+.navbar-nav {
+	margin: 0;
+}
+.navbar-nav li {
+	border: 1px solid #fff;
+}
+
+.container {
+	width: 100%;
+}
+.row {
+	margin: 10px;
+}
+section {
+	padding: 20px;
+	margin: 20px 10px;
+	background-color: #cfe1ff;
+	height: 700px;
+}
+h3 {
+	margin: 0;
+	padding: 10px;
+}
+.top-link {
+	position: absolute;
+	bottom: 20px;
+	right: 40px;
+}
+.navbar li:hover {
+	background-color: #80b1ff;
+	color: #fff;
+}
